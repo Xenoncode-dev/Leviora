@@ -13,8 +13,7 @@ It goes beyond a simple document viewer by combining powerful reading tools, ele
 
 [## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-Leviora_APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Xenoncode-dev/Streak-War/releases/download/v1.0.0/Leviora.apk)](https://github.com/Xenoncode-dev/Leviora/releases/download/v1.0.0/Leviora.apk)
-
+[![Download](https://img.shields.io/badge/Download-Leviora_APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Xenoncode-dev/Leviora/releases/download/v1.0.0/Leviora.apk) 
 ---
 
 ## 💡 Why Leviora?
